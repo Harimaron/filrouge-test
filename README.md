@@ -6,7 +6,7 @@
 - Legacy Factors Specialist : **Prénom**
 ## Charte graphique
 - Polices : **Arial** & **Helvetica**.
-- Couleurs : ![Couleurs](https://i.imgur.com/J3Ks2uK.png "Couleurs")
+- Couleurs : 
 ## Description
 ### Le client
 Le Village n°1 (http://www.levillage1.be/) propose un accompagnement aux personnes handicapées afin de pouvoir les réinsérer professionnellement. Ils proposent des services aux entreprises ainsi qu'aux particuliers, ils offrent de la main d'oeuvre pour des services très variés comme entretien de jardin, titre service, service rénovation,...
