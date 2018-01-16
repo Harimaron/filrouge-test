@@ -5,7 +5,7 @@
 - Corporate Ideation Technician : **Prénom**
 - Legacy Factors Specialist : **Prénom**
 ## Charte graphique
-- Polices : **Arial** & **Helvetica**.
+- Polices : **Police** & **Police**.
 - Couleurs : Réutiliser les couleurs du logo.
 ## Description
 ### Le client
