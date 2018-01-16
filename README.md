@@ -6,7 +6,7 @@
 - Legacy Factors Specialist : **Prénom**
 ## Charte graphique
 - Polices : **Arial** & **Helvetica**.
-- Couleurs : 
+- Couleurs : Réutiliser les couleurs du logo.
 ## Description
 ### Le client
 Le Village n°1 (http://www.levillage1.be/) propose un accompagnement aux personnes handicapées afin de pouvoir les réinsérer professionnellement. Ils proposent des services aux entreprises ainsi qu'aux particuliers, ils offrent de la main d'oeuvre pour des services très variés comme entretien de jardin, titre service, service rénovation,...
@@ -17,5 +17,20 @@ Entreprises/particuliers/personnes handicapées demandeurs d'emploi.
 ### Le problème
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere nulla et urna lobortis, sed ultricies lorem laoreet. Proin volutpat lacinia molestie. Sed eget quam velit. Nam vitae euismod orci. Proin rhoncus felis eu dictum aliquam. Fusce tempor convallis nunc at tempor. Quisque non arcu sit amet est rutrum auctor in nec sapien. Nulla facilisi. Nam ac lorem arcu. Vestibulum eleifend libero ut est feugiat, id rutrum enim pulvinar. 
 ### Résultat souhaité
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere nulla et urna lobortis, sed ultricies lorem laoreet. Proin volutpat lacinia molestie. Sed eget quam velit. Nam vitae euismod orci. Proin rhoncus felis eu dictum aliquam. Fusce tempor convallis nunc at tempor. Quisque non arcu sit amet est rutrum auctor in nec sapien. Nulla facilisi. Nam ac lorem arcu. Vestibulum eleifend libero ut est feugiat, id rutrum enim pulvinar. 
+#### Visuel
+- Un design plus accessible et plus agréable à regarder.
+- Une vision plus claire des services proposés.
+- Pouvoir savoir en quelques secondes l'intérêt de la société.
+#### Services
+- Réaliser un service de "Taxis sociaux." Savoir le prix à payer pour un déplacement en fonction du point A au point B. Il doit être déterminable par le temps OU par le kilométrage. Mettre en place un système de réservations en ligne.
+- Le client demande également un système de forum.
+- Rendre le site accessible aux aveugles. Pouvoir utiliser le site les yeux bandés.
+#### Contenu
+- Garder ce qui semble cohérent. Le résultat doit être clair et accessible avant tout. 
+- Oublier la partie Multimédia et la partie Focus.
+- Garder le système de F.A.Q.
+#### Technologies
+- Développer le site en React/Meteor.
+## UML
+![UML](https://contattafiles.s3-us-west-1.amazonaws.com/tnt14094/Xeij2dbt2EiGf72/filrouge.png "UML")
 
