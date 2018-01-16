@@ -15,7 +15,7 @@ Portail d'information/outil de communication.
 ### Public ciblé
 Entreprises/particuliers/personnes handicapées demandeurs d'emploi.
 ### Le problème
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere nulla et urna lobortis, sed ultricies lorem laoreet. Proin volutpat lacinia molestie. Sed eget quam velit. Nam vitae euismod orci. Proin rhoncus felis eu dictum aliquam. Fusce tempor convallis nunc at tempor. Quisque non arcu sit amet est rutrum auctor in nec sapien. Nulla facilisi. Nam ac lorem arcu. Vestibulum eleifend libero ut est feugiat, id rutrum enim pulvinar. 
+Un grand manque de clarté et d'accessibilité. Trop d'informations qui sautent aux yeux.
 ### Résultat souhaité
 #### Visuel
 - Un design plus accessible et plus agréable à regarder.
